@@ -4,7 +4,7 @@ Validator application which checks the following rules:
 1. If topic == A, then name will be “a”and description will be more than 10 and less than 100 chars
 2. If topic == B, then name will be “x” and description will be less than 40 chars
 
-Note: Youc can add more topics D, E, F … In the future and combinations of validation rules on name and description in TopicValidator.java
+Note: You can add more topics D, E, F … In the future and combinations of validation rules on name and description in TopicValidator.java
 
 **Sample implementation:** 
 Given the below object:
